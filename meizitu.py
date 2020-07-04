@@ -4,6 +4,9 @@ import re
 import urllib.error as err
 import os
 import socket
+#v07加一行注释
+#v08加的注释
+#08假的注释2
 #socket.setdefaulttimeout(10)
 header = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'}
 regx = 'https:\/\/5252ll\.com/luyilu/201\d{1}/.+?\.html'#图片页
