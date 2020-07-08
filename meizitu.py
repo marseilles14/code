@@ -119,13 +119,3 @@ if __name__ == '__main__':
                     print('group finish')
                     i=[]
     print('finish')
-
-
-
-
-
-        
-
-
-
-
